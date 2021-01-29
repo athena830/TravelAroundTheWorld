@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAroundTheWorld", "TravelAroundTheWorld\TravelAroundTheWorld.csproj", "{E3F03C32-6BB6-418A-873D-C0ED4DB74A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F03C32-6BB6-418A-873D-C0ED4DB74A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F03C32-6BB6-418A-873D-C0ED4DB74A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F03C32-6BB6-418A-873D-C0ED4DB74A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F03C32-6BB6-418A-873D-C0ED4DB74A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
