@@ -40,7 +40,7 @@ namespace TravelAroundTheWorld
             app.UseStaticFiles();
 
             app.UseHttpsRedirection();
-            app.UseMvc();
+            //app.UseMvc();
 
             //判斷是否是要存取網頁，而不是發送API需求
             app.Use(async (context, next) =>
